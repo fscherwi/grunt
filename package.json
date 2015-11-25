@@ -61,7 +61,7 @@
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-watch": "~0.6.1",
     "grunt-jscs": "~2.3.0",
-    "semver": "2.1.0",
+    "semver": "5.1.0",
     "shelljs": "~0.5.3",
     "temporary": "~0.0.4"
   },
